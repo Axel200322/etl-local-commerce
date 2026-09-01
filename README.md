@@ -16,8 +16,6 @@ Language: Python 3.14.5
 
 Data Manipulation: pandas, openpyxl
 
-Database & ORM: PostgreSQL, SQLAlchemy, psycopg2-binary
-
 Environment Management: python-dotenv
 
 #Project Structure
